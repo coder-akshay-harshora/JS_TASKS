@@ -41,6 +41,7 @@ That will extract even and odd numbers from an array A.
 		}
 
  5. **Task5**
+
 In this task there is a function called cleanNames that accepts an array of strings containing additional space characters at the beginning and end. The cleanNames() function  use the array map method to return a new array full of trimmed names.
 > For example:  
 > cleanNames([" avengers", "   captain_america", "ironman   ", " black
@@ -48,12 +49,16 @@ In this task there is a function called cleanNames that accepts an array of stri
 > "black panther"]
 
  6. **Task6**
+
 In this task there is function that converts an array of values from miles to kilometres using the map method. In the end, add the kilometres up in a new variable called “totalDistanceInKilometers” and return this variable.
  7. **Task7**
+
 This task do square and sum the array elements using the arrow function and then find the average of the array.
  8. **Task8**
+
 This task chooses even double even numbers from the array of numbers and compute the sum using Array’s filter, map and reduce methods
 9. **Task9**	
+
 This task uses the .map() method on the heros array to return a new array.  
 
 -   This new array will rename the ‘name’ key to ‘hero’.
@@ -83,6 +88,7 @@ This task uses the .map() method on the heros array to return a new array.
     ]
 
 10. **Task10**
+
 In This task, we have to display only some of the array items from the predefined array elements.
 
 > Input :
@@ -96,6 +102,7 @@ In This task, we have to display only some of the array items from the predefine
     const inputWords = ["spray", "limit", "elite", "exuberant", "destruction", "present"];
 
 11. **Task11**
+
 In this task, a problem is solved.
 In this problem we have given matrix size and matrix as input.
 In this problem we have to rotate matrix 90 degrees either left side or right side.
