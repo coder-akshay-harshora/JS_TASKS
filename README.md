@@ -52,12 +52,15 @@ In this task there is a function called cleanNames that accepts an array of stri
  6. **Task6**
 
 In this task there is function that converts an array of values from miles to kilometres using the map method. In the end, add the kilometres up in a new variable called “totalDistanceInKilometers” and return this variable.
- 7. **Task7**
+
+7. **Task7**
 
 This task do square and sum the array elements using the arrow function and then find the average of the array.
- 8. **Task8**
+
+8. **Task8**
 
 This task chooses even double even numbers from the array of numbers and compute the sum using Array’s filter, map and reduce methods
+
 9. **Task9**	
 
 This task uses the .map() method on the heros array to return a new array.  
