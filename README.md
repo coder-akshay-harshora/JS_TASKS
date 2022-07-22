@@ -29,6 +29,7 @@ That will extract even and odd numbers from an array A.
 > index 1 should return array of even number.
 
  4. **Task4**
+ 
  This task will get the value of symptom for each goal in goals.json from symptoms.json
 
 > For example solution(“yoga”) should return
